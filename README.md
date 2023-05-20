@@ -12,6 +12,8 @@ Techniques Used:
 - Contains questions that do not have a definite answer in the given context
 - The dataset contains over 100,000 questions that are derived from Wikipedia articles and covers a wide range of topics.
 
+Dataset Download: https://rajpurkar.github.io/SQuAD-explorer/
+
 ## METRICS:
 - F1 score measures the model's ability to correctly predict the answer and is calculated based on the overlap between the predicted answer and the ground truth answer.
 - Exact Match (EM), on the other hand, measures the model's ability to provide the exact same answer as the ground truth answer.
